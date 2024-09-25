@@ -1,3 +1,3 @@
 README
 
-An obstacle avoidace example is available at: 
+An obstacle avoidace example video is available at: 
